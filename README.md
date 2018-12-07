@@ -58,17 +58,17 @@ Les différentes vues.
 Un screenshot de la vue en mode Street de Google Maps.
 
 Version Android
-![alt text](https://postimg.cc/S2RTxY4s)
+![alt text](https://i.postimg.cc/V6B34XHj/Screenshot-20181207-042033.jpg)
 
 Version iOS
-![alt text](https://postimg.cc/Xp2d816r)
+![alt text](https://i.postimg.cc/3xh13zLF/2018-12-07-06-26-17-i-Phone-X-i-OS-12-1.png)
 
 ### Map hybrid 	
 
 Un screenshot de la vue en mode Hybrid de Google Maps.
 
 Version Android
-![alt text](https://postimg.cc/n9Q3v8Cf)
+![alt text](https://i.postimg.cc/Y0dTBM70/Screenshot-20181207-042024.jpg)
 
 Version iOS
 ![alt text](https://i.postimg.cc/ht0rvM6W/2018-12-07-06-26-35-i-Phone-X-i-OS-12-1.png)
@@ -77,26 +77,26 @@ Version iOS
 
 Un screenshot de la vue en mode Satellite de Google Maps.
 
-![alt text](https://postimg.cc/7GRBGPPN)
+![alt text](https://i.postimg.cc/90mskzvs/Screenshot-20181207-042009.jpg)
 
 Version iOS
-![alt text](https://postimg.cc/jLqyy0mV)
+![alt text](https://i.postimg.cc/jdPv0Rhj/2018-12-07-06-25-47-i-Phone-X-i-OS-12-1.png)
 
 ## Map avec information Pin Maps
 
 Un screenshot de la vue en mode Street avec les informations du Pin de Google Maps.
 
 Version Android
-![alt text](https://postimg.cc/gwNtpqfQ)
+![alt text](https://i.postimg.cc/FRQMjTGr/Screenshot-20181207-042109.jpg)
 
 Version iOS
-![alt text](https://postimg.cc/HrR5GJxH)
+![alt text](https://i.postimg.cc/258xZhNq/2018-12-07-06-27-14-i-Phone-X-i-OS-12-1.png)
 
 ## Splash screen
 
 Un screenshot de la vue en mode Street avec les informations du Pin de Google Maps.
 
-![alt text](https://postimg.cc/8F1XxnnL)
+![alt text](https://i.postimg.cc/yN9qgMmp/Screenshot-20181207-041909.jpg)
 
 ## Executables
 
