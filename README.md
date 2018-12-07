@@ -71,7 +71,7 @@ Version Android
 ![alt text](https://postimg.cc/n9Q3v8Cf)
 
 Version iOS
-![alt text](https://postimg.cc/fVJXg7MB)
+![alt text](https://i.postimg.cc/ht0rvM6W/2018-12-07-06-26-35-i-Phone-X-i-OS-12-1.png)
 
 ## Map satellite
 
@@ -105,7 +105,7 @@ Executable iOS (.IPA) =>
 
 ## Author
 
-* **Alexandre KLEIN** - *Etudiant CESI école d'ingénieur - Strasbourg* - [PurpleBooth](https://github.com/Zebiphire)
+* **Alexandre KLEIN** - *Etudiant CESI école d'ingénieur - Strasbourg* - [Zebiphire](https://github.com/Zebiphire)
 
 
 ## Remerciements
