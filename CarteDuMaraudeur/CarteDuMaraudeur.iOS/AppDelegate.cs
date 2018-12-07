@@ -20,9 +20,12 @@ namespace CarteDuMaraudeur.iOS
         //
         // You have 17 seconds to return from this method, or iOS will terminate your application.
         //
+        string iOS_Key = "AIzaSyA2Gf2xUQBSW5Sz2D8p-Ee32YyKw8FV7w4";
         public override bool FinishedLaunching(UIApplication app, NSDictionary options)
         {
             global::Xamarin.Forms.Forms.Init();
+            Xamarin.Forms.Forms.Init();
+            Xamarin.FormsMaps.Init();
             LoadApplication(new App());
 
             return base.FinishedLaunching(app, options);

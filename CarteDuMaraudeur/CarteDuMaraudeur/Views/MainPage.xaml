@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:local="clr-namespace:CarteDuMaraudeur.ViewModels"
+             x:Class="CarteDuMaraudeur.Views.MainPage"
+             Title="Le groupe TS"
+             BackgroundColor="Gray">
+    <ContentPage.Content>
+        <StackLayout >
+            <local:CustomMap x:Name="customMap" MapType="Satellite" WidthRequest="400" HeightRequest="400" />
+            <Button Text="Street" Clicked="Street_Button_Clicked" TextColor="White" BackgroundColor="Black"/>
+            <Button Text="Hybrid" Clicked="Hybrid_Button_Clicked" TextColor="White" BackgroundColor="Black"/>
+            <Button Text="Satellite" Clicked="Satellite_Button_Clicked" TextColor="White" BackgroundColor="Black"/>
+        </StackLayout>
+    </ContentPage.Content>
+</ContentPage>

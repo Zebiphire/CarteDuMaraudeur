@@ -9,7 +9,7 @@ using Android.OS;
 
 namespace CarteDuMaraudeur.Droid
 {
-    [Activity(Label = "CarteDuMaraudeur", Icon = "@mipmap/icon", Theme = "@style/MainTheme", MainLauncher = true, ConfigurationChanges = ConfigChanges.ScreenSize | ConfigChanges.Orientation)]
+    [Activity(Label = "La carte du Maraudeur", Icon = "@drawable/icone_logo_ts", Theme = "@style/MainTheme", MainLauncher = true, ConfigurationChanges = ConfigChanges.ScreenSize | ConfigChanges.Orientation)]
     public class MainActivity : global::Xamarin.Forms.Platform.Android.FormsAppCompatActivity
     {
         protected override void OnCreate(Bundle savedInstanceState)
